@@ -1,8 +1,9 @@
-#🌍 AI-Powered Travel Planner ✈️🚆🚌🚖
-📌 Project Overview
+# 🌍 AI-Powered Travel Planner ✈️🚆🚌🚖
+
+## 📌 Project Overview
 AI-Powered Travel Planner is a smart assistant that helps users find the best travel options based on their budget, preferred travel time, number of travelers, and transport mode. It leverages LangChain and Google GenAI to provide real-time travel recommendations for flights, trains, buses, and cabs.
 
-#🎯 Features
+## 🎯 Features
 ✅ Find the Best Travel Routes between any source and destination
 ✅ Supports Multiple Transport Modes 🚖🚆🚌✈️
 ✅ Estimates Travel Cost 💰
@@ -10,7 +11,7 @@ AI-Powered Travel Planner is a smart assistant that helps users find the best tr
 ✅ Easy-to-Use Web Interface (built with Streamlit)
 ✅ Uses AI for Smart Travel Planning 🤖
 
-#🛠️ Tech Stack
+## 🛠️ Tech Stack
 Programming Language: Python 🐍
 
 Frontend: Streamlit 🎨
@@ -21,27 +22,25 @@ AI Model: Google Generative AI (Gemini Pro) 🤖
 
 Deployment: Streamlit Cloud 
 
-#🚀 How to Run the App Locally
-1️⃣ Install Dependencies
-First, install all required libraries:
+## 🚀 How to Run the App Locally
+ 
 
-bash
-Copy
-Edit
+### **1️⃣ Clone the Repository**  
+```bash
+git clone https://github.com/yourusername/ai-travel-planner.git
+cd ai-travel-planner
+```
+
+### **2️⃣ Install Dependencies**  
+```bash
 pip install -r requirements.txt
-2️⃣ Run the App
-bash
-Copy
-Edit
-streamlit run app.py
-This will launch the web interface in your browser.
-
-#🌐 Deployment
+```
+## 🌐 Deployment
 To deploy the app online, use:
 
 Streamlit Cloud: https://share.streamlit.io
 
    
-📧 Contact & Contributions
+## 📧 Contact & Contributions
 📩 Feel free to contribute, suggest features, or report bugs!
 
